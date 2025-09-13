@@ -4,7 +4,7 @@
 #### REGISTER NUMBER:212223230062
 
 ### AIM:
-To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
+To Illustrates how to perform time series analysis and decomposition.
 
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
